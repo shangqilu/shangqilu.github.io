@@ -21,7 +21,7 @@ An *orientation* of a graph $G$ is a directed graph $G^+$ obtained by giving eac
 
 ## 2. Static Graph Orientation
 
-There is a linear time algorithm to find an $O(\alpha)$-orientation of $G$,  where $\alpha$ is the [arboricity](https://en.wikipedia.org/wiki/Arboricity) \[CN85\] of $G$, which is the smallest number of edge-disjoint forests that cover all the edges in $G$. In general, $\alpha$ is between $1$ and $\lceil \sqrt{m}\rceil$ and is a measure of the *sparcity* of $G$. On the other hand, $G$ has an $O(\alpha)$-orientation only if the arboricity of it is $O(\alpha)$.
+There is a linear time algorithm to find an $O(\alpha)$-orientation of $G$,  where $\alpha$ is the [arboricity](https://en.wikipedia.org/wiki/Arboricity) (CN85) of $G$, which is the smallest number of edge-disjoint forests that cover all the edges in $G$. In general, $\alpha$ is between $1$ and $\lceil \sqrt{m}\rceil$ and is a measure of the *sparcity* of $G$. On the other hand, $G$ has an $O(\alpha)$-orientation only if the arboricity of it is $O(\alpha)$.
 
 The algorithm repeatedly finds a vertex $u$ with a minimum degree in $G$, orients the each edge of $u$ from $u$ to the other vertex and  then remove $u$ and the edge of $u$ from $G$.  At the end, the out-degree of the orientation is bounded by the *[degeneracy](https://en.wikipedia.org/wiki/Degeneracy_(graph_theory))* of $G$, which is a constant approximation of the arboricity of the graph.
 
@@ -31,17 +31,17 @@ The algorithm repeatedly finds a vertex $u$ with a minimum degree in $G$, orient
 
 When there are edge insertions/deletions, the question is how to maintain an $O(\alpha)$-orientation with small update time? More specifically, after an edge update, the directions of some edges in $G^+$ may be flipped,  and we want to make the number of edge flipped as small as possible. 
 
-In this setting, graph orientation becomes more challenging. If only $O(\log^c m)$ edge flips are allowed in each update where $c>0$ is a constant, existing results can only maintain a orientation with out-degree bounded by the largest arboricity in history (see the discussion in [BB20]).
+In this setting, graph orientation becomes more challenging. If only $O(\log^c m)$ edge flips are allowed in each update where $c>0$ is a constant, existing results can only maintain a orientation with out-degree bounded by the largest arboricity in history (see the discussion in (BB20)).
 
-Next, I will introduce some works in [BB20] and [BF99].
+Next, I will introduce some works in (BB20) and (BF99).
 
-### 3.1 An off-line strategy in [BF99]
-
-
+### 3.1 An off-line strategy in (BF99)
 
 
 
-### 3.2 An simple online strategy in [BB20]
+
+
+### 3.2 An simple online strategy in (BB20)
 
 
 
@@ -51,11 +51,11 @@ Next, I will introduce some works in [BB20] and [BF99].
 
 ## References
 
-> [BB20] A Simple Greedy Algorithm for Dynamic Graph Orientation
+> (BB20) A Simple Greedy Algorithm for Dynamic Graph Orientation
 >
-> [BF99] Dynamic Representations of Sparse Graphs
+> (BF99) Dynamic Representations of Sparse Graphs
 >
-> [CN85] Arboricity and Subgraph Listing Algorithms
+> (CN85) Arboricity and Subgraph Listing Algorithms
 
 
 
