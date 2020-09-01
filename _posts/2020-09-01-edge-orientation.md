@@ -7,17 +7,25 @@ In graph orientations, we want to orient every edge of a simple graph to obtain 
 
 
 
-Suppose that the maximum out-degree is $$\delta$$.  There are many applications. One application is to support adjancency query with $$O(\delta)$$ answer time and linear space.  Another one is to list all the triangles in $$O(m\delta)$$ time where $$m$$ is the number of edges.
+Suppose that the maximum out-degree is $\delta$ in the oriented graph.  There are many applications. One application is to support adjancency query with $O(\delta)$ answer time and $O(m)$ space where $m$ is the number of edges.  Another one is to list all the triangles in $O(m\delta)$ time.
 
 
 
-## Static graph
+## Basic Notations
 
 
 
 
 
-## Dynamic graph orientation
+
+
+## Static Graph Orientation
+
+For static graph, there is a simple way to make the out-degree bounded by arboricity of $G$.
+
+
+
+## Dynamic Graph Orientation
 
 
 
