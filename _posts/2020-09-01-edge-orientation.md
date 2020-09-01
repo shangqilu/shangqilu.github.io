@@ -33,17 +33,27 @@ When there are edge insertions/deletions, the question is how to maintain an $O(
 
 In this setting, graph orientation becomes more challenging. If only $O(\log^c m)$ edge flips are allowed in each update where $c>0$ is a constant, existing results can only maintain a orientation with out-degree bounded by the largest arboricity in history (see the discussion in \[BB20\]).
 
-Next, I will introduce some works in \[BB20\] and \[BF99\].
+Next, I will introduce some works in \[BB20\] and \[BF99\]. Given a sequence of updates $S = (1, 2, ..., t)$ where each update $i$ is either an  edge inserstion or an edge deletion, an online algorithm receives $S$ as a stream and upon receiving update $i$, it  produces an orientation $G^+_i$ of current graph. While an off-line strategy knows all the updates in $S$ before it produces an orientation after each update. It is obvious that finding an online algorithm is more difficult.
+
+We say that an online algorithm or off-line strategy makes $\sigma$ flips (in the worst case) if the number of flips between any two updates is at most $\sigma$.
 
 ### 3.1 An off-line strategy in \[BF99\]
 
+The result in this paper for off-line strategy
 
+An interesting lemma.
 
 
 
 ### 3.2 An simple online strategy in \[BB20\]
 
+The simple greedy algo
 
+The result
+
+After k greedy-flips, max out-degree is increased at most one
+
+The most difficult part in the proof. Hence, introduce potential
 
 
 
