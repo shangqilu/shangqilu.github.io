@@ -1,33 +1,33 @@
-name: act65
-description: More questions than answers
-avatar: https://raw.githubusercontent.com/act65/act65.github.io/master/images/question-mark.png
+name: Shangqi Lu
+description: Notes of papers in computer science
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: act65.com@gmail.com
+  email: 
   facebook:
   flickr:
-  github: act65
+  github: shangqilu
   instagram:
   linkedin:
   pinterest:
   rss: feed # just type anything here for a working RSS icon
-  twitter: telfarac
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
-disqus: act65com
+disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://act65.github.io
+url: http://shangqilu.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
