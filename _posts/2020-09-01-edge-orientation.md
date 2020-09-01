@@ -51,11 +51,11 @@ Next, I will introduce some works in (BB20) and (BF99).
 
 ## References
 
-> (BB20) A Simple Greedy Algorithm for Dynamic Graph Orientation
+> \[BB20\] A Simple Greedy Algorithm for Dynamic Graph Orientation
 >
-> (BF99) Dynamic Representations of Sparse Graphs
+> \[BF9\] Dynamic Representations of Sparse Graphs
 >
-> (CN85) Arboricity and Subgraph Listing Algorithms
+> `[CN85]` Arboricity and Subgraph Listing Algorithms
 
 
 
