@@ -49,14 +49,7 @@ Note that the off-line strategy knows $\alpha_h$. The proof of Lemma 1 follows f
 
 We can maintain a $\delta$-orientation with $O(\log n)$ flips at each update.  No edges are flipped in each deletion. After inserting an edge $\{u,v\}$ into $G$, without loss of generality, we orient it into $(u,v)$ If the out-degree of $u$ is larger than $\delta$, due to Lemma 2, we can find a $u$-to-$w$ path in $G^+$ with length $O(\log n)$ such that $w$ has a out-degree less than $\delta$. By reversing all the edges on this path, only the out-degree of $w$ increases by one.  
 
-Proof of Lemma 2. 
-Let $V_i$ be the set of vertices reachable from $u$ in $G^+$ by paths with length at most $i$. 
-
-The claim is $ \|V_i \| \ge 2^i$ if all vertices in $V_i$ has out-degree at least $\delta$. 
-
-Becasue $|V_i|\le n$, then we have $i < \log_2 n$ and the lemma follows. 
-
-We can prove this claim by induction and use the property that $|E'|/(|V'|-1) \le \alpha_h$ for any subgraph of $G$ (see more details in [BF99]).
+*Proof of Lemma 2*. Let $V_i$ be the set of vertices reachable from $u$ in $G^+$ by paths with length at most $i$. The claim is $ \|V_i \| \ge 2^i$ if all vertices in $V_i$ has out-degree at least $\delta$. Becasue $\|V_i\|\le n$, then we have $i < \log_2 n$ and the lemma follows. We can prove this claim by induction and use the property that $\|E'\|/(\|V'\|-1) \le \alpha_h$ for any subgraph of $G$ (see more details in [BF99]).
 
 ### 3.2 An simple online strategy
 
