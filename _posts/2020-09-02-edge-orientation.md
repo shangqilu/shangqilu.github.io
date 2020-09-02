@@ -21,7 +21,7 @@ There is a linear-time algorithm to find an $O(\alpha)$-orientation of $G$.
 
 The algorithm repeatedly finds a vertex $u$ with a minimum degree in $G$, orients each edge of $u$ from $u$ to the other vertex, and then remove $u$ and the edge of $u$ from $G$.  In the end, the maximum out-degree of the orientation is exactly the *[degeneracy](https://en.wikipedia.org/wiki/Degeneracy_(graph_theory))* of $G$, which is a constant approximation of the arboricity of the graph.
 
-On the other hand, it is rudimentary to verify that $G$ has an $O(\alpha)$-orientation only if the arboricity is $O(\alpha)$. 
+On the other hand, it is rudimentary to verify that $G$ has an $\delta$-orientation only if the arboricity is $O(\delta)$. 
 
 
 
