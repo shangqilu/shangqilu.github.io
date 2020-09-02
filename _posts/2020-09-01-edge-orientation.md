@@ -5,19 +5,15 @@ title: Graph Orientation Under Edge Updates
 
 In *graph orientation*, we want to orient every edge of a simple graph to obtain a directed graph with low out-degree. 
 
-Graph orientation may serve a building block for some other algorithms. Suppose that the maximum out-degree is $\delta$ in the oriented graph.  We can construct adjacency lists to support adjacency query with $O(\delta)$ answer time and $O(m)$ space where $m$ is the number of edges.  Another example is to list all the triangles in $O(m\delta)$ time. Specifically, for each vertex $u$, we only need to enumerate every two out-neighbors $v, w$ of $u$ and then check whether $u, v, w$ form a triangle. When $\delta$ is small, the above algorithms would be very efficient. This usually happens in *sparse* graphs. 
-
-
+Graph orientation may serve a building block for some other algorithms. Suppose that the maximum out-degree is $\delta$ in the oriented graph.  We can construct adjacency lists to support adjacency query with $O(\delta)$ answer time and $O(m)$ space where $m$ is the number of edges.  Another example is to list all the triangles in $O(m\delta)$ time. Specifically, for each vertex $u$, we only need to enumerate every two out-neighbors $v, w$ of $u$ and then check whether $u, v, w$ form a triangle. In sparse graphs, $\delta$ tends to be very small and the above algorithms would be very useful. 
 
 ## 1. Notations
 
-We use $G = (V, E)$ to denote a simple graph. Denote by $m$ the number of edges and $n$ the number of vertices in $G$.
-
-In this note, $\{u,v\}$ represents an undirected edge between vertices $u$ and $v$, while a directed edge from $u$ to $v$ is represented as $(u,v)$. 
+We use $G = (V, E)$ to denote a simple graph. Denote by $m$ the number of edges and $n$ the number of vertices in $G$. In this note, $\{u,v\}$ represents an undirected edge between vertices $u$ and $v$, while a directed edge from $u$ to $v$ is represented as $(u,v)$. 
 
 An *orientation* of a graph $G$ is a directed graph $G^+$ obtained by giving each edge in $G$ a direction. Define $deg(G^+)$ as the maximum out-degree of $G^+$. We say $G^+$ is a $\delta$-orientation of $G$ if $deg(G^+)\le \delta$.
 
-The [arboricity](https://en.wikipedia.org/wiki/Arboricity) \[CN85\], denoted by $\alpha$, is the smallest number of edge-disjoint forests that cover all the edges in $G$. In general, $\alpha$ is between $1$ and $\lceil \sqrt{m}\rceil$ and is a measure of the *sparsity* of $G$， while $\alpha=O(1)$  in planar graphs, or graphs with bounded degree or bounded tree-width. Existing works mainly focus on finding a $O(\alpha)$-orientation. 
+The [arboricity](https://en.wikipedia.org/wiki/Arboricity) \[CN85\], denoted by $\alpha$, is the smallest number of edge-disjoint forests that cover all the edges in $G$. In general, $\alpha$ is between $1$ and $\lceil \sqrt{m}\rceil$ and is a measure of the *sparsity* of $G$， while $\alpha=O(1)$  in planar graphs, or graphs with bounded degree or bounded tree-width. Existing works mainly focus on $O(\alpha)$-orientation. 
 
 ## 2. Static Graph Orientation
 
@@ -31,9 +27,9 @@ On the other hand, it is rudimentary to verify that $G$ has an $O(\alpha)$-orien
 
 ## 3. Dynamic Graph Orientation
 
-When there are edge insertions/deletions, the question is how to maintain an $O(\alpha)$-orientation with small update time. More specifically, after an edge update, the directions of some edges in $G^+$ may be flipped,  and we want to make the number of edges flipped as small as possible. 
+When there are edge insertions/deletions, the question is how to maintain an $O(\alpha)$-orientation with a small update time. More specifically, after an edge update, the directions of some edges in $G^+$ may be flipped,  and we want to make the number of edges flipped as small as possible. 
 
-In this setting, graph orientation becomes more challenging. If only $O(\log^c m)$ edge flips are allowed in each update where $c>0$ is a constant, existing results can only maintain an orientation with out-degree bounded by the largest arboricity in history (see the discussion in \[BB20\]).
+In this setting, graph orientation becomes more challenging. If only $O(\log^c m)$ edge flips are allowed in each update fome some constant $c>0$, existing results can only maintain an orientation with out-degree bounded by the largest arboricity in history (see the discussion in \[BB20\]).
 
 Next, I will introduce some works in \[BB20\] and \[BF99\]. Given a sequence of updates where each update $i$ is either an edge insertion or an edge deletion, an online algorithm receives the sequence as a stream and upon receiving update $i$, it produces an orientation $G^+_i$ of the current graph. While an off-line strategy knows the sequence before it produces an orientation after each update. Therefore, finding an online algorithm is more difficult.
 
@@ -65,10 +61,14 @@ The most difficult part is to bound the maximum out-degree after we have perform
 
 
 
+One open quesiton (as also stated in \[BB20\]) is can we maintain an $O(\alpha)$-orientation with $O(poly \log n)$ flips at each update? Is there an offline-strategy to achieve this purpose?
+
+
+
 ## References
 
-> \[BB20\] A Simple Greedy Algorithm for Dynamic Graph Orientation
->
-> \[BF99\] Dynamic Representations of Sparse Graphs
->
-> \[CN85\] Arboricity and Subgraph Listing Algorithms
+[BB20\] A Simple Greedy Algorithm for Dynamic Graph Orientation
+
+\[BF99\] Dynamic Representations of Sparse Graphs
+
+\[CN85\] Arboricity and Subgraph Listing Algorithms
