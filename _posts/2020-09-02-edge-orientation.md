@@ -13,7 +13,7 @@ We use $G = (V, E)$ to denote a simple graph. Denote by $m$ the number of edges 
 
 An *orientation* of a graph $G$ is a directed graph $G^+$ obtained by giving each edge in $G$ a direction. Define $deg(G^+)$ as the maximum out-degree of $G^+$. We say $G^+$ is a $\delta$-orientation of $G$ if $deg(G^+)\le \delta$.
 
-The [arboricity](https://en.wikipedia.org/wiki/Arboricity) \[CN85\], denoted by $\alpha$, is the smallest number of edge-disjoint forests that cover all the edges in $G$. In general, $\alpha$ is between $1$ and $\lceil \sqrt{m}\rceil$ and is a measure of the *sparsity* of $G$， while $\alpha=O(1)$  in planar graphs, or graphs with bounded degree or bounded tree-width. Existing works mainly focus on $O(\alpha)$-orientation. 
+The *[arboricity](https://en.wikipedia.org/wiki/Arboricity)* \[CN85\], denoted by $\alpha$, is the smallest number of edge-disjoint forests that cover all the edges in $G$. In general, $\alpha$ is between $1$ and $\lceil \sqrt{m}\rceil$ and is a measure of the *sparsity* of $G$， while $\alpha=O(1)$  in planar graphs, or graphs with bounded degree or bounded tree-width. Existing works mainly focus on $O(\alpha)$-orientation. 
 
 ## 2. Static Graph Orientation
 
