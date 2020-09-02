@@ -52,7 +52,7 @@ We can maintain a $\delta$-orientation with $O(\log n)$ flips at each update.  N
 Proof of Lemma 2. 
 Let $V_i$ be the set of vertices reachable from $u$ in $G^+$ by paths with length at most $i$. 
 
-The claim is $|V_i|\ge 2^i$ if all vertices in $V_i$ has out-degree at least $\delta$. 
+The claim is $V_i\ge 2^i$ if all vertices in $V_i$ has out-degree at least $\delta$. 
 
 Becasue $|V_i|\le n$, then we have $i < \log_2 n$ and the lemma follows. 
 
