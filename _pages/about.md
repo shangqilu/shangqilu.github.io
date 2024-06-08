@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Shangqi Lu's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -31,9 +30,7 @@ In publications marked with `**', authors are ordered alphabetically (by last na
 - Shangqi Lu and Yufei Tao. **Range Updates and Range Sum Queries on Multidimensional Points with Monoid Weights. Proceedings of the 33rd International Symposium on Algorithms and Computation (ISAAC), pages 57:1-57:16, 2022. Computational Geometry: Theory and Applications, 115:102030, 2023.
 - Abolfazl Asudeh, Das Gautam, HV Jagadish, Shangqi Lu, Azade Nazi, and Yufei Tao, et al. **On Finding Rank Regret Representatives. ACM Transactions on Database Systems (TODS), 47(3): 10:1-10:37, 2022.
 
-- Shangqi Lu, Wim Martens, Matthias Niewerth, and Yufei Tao. **Optimal Algorithms for Multiway Search on Partial Orders.
-
-Proceedings of the 41st ACM Symposium on Principles of Database Systems (PODS), pages 175-187, 2022.
+- Shangqi Lu, Wim Martens, Matthias Niewerth, and Yufei Tao. **Optimal Algorithms for Multiway Search on Partial Orders. Proceedings of the 41st ACM Symposium on Principles of Database Systems (PODS), pages 175-187, 2022.
 
 - Shangqi Lu and Yufei Tao. **Towards Optimal Dynamic Indexes for Approximate (and Exact) Triangle Counting. Proceedings of the 24th International Conference on Database Theory (ICDT), pages 6:1-6:23, 2021.
 
@@ -41,7 +38,7 @@ Proceedings of the 41st ACM Symposium on Principles of Database Systems (PODS), 
 
 ### Teaching
 
-Teaching Assistant: CSCI5010 Practical Computational Geometry Algorithms, Spring 2021
-Teaching Assistant: CMSC5724 Data Mining and Knowledge Discovery, Fall 2018, Fall 2019, Fall 2020
-Teaching Assistant: CSCI2100 Data Structures, Fall 2018, Fall 2020
-Teaching Assistant: CSCI3160: Design and Analysis of Algorithms, Fall 2019
+- Teaching Assistant: CSCI5010 Practical Computational Geometry Algorithms, Spring 2021
+- Teaching Assistant: CMSC5724 Data Mining and Knowledge Discovery, Fall 2018, Fall 2019, Fall 2020
+- Teaching Assistant: CSCI2100 Data Structures, Fall 2018, Fall 2020
+- Teaching Assistant: CSCI3160: Design and Analysis of Algorithms, Fall 2019
