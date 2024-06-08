@@ -14,10 +14,10 @@ redirect_from:
 
 ### Biography
 
-Shangqi Lu will join Hong Kong University of Science and Technology (Guangzhou) in July 2024 as an Assistant Professor in the Thrust of Data Science and Analytics. Prior to this, he worked as a Research Engineer at Gauss Lab, Huawei. He earned his doctoral degree in 2022 from the Department of Computer Science and Engineering at Chinese University of Hong Kong and completed his undergraduate studies in the Department of Computer Science at Northwestern Polytechnical University in 2018.
+I will join Hong Kong University of Science and Technology (Guangzhou) in July 2024 as an Assistant Professor in the Thrust of Data Science and Analytics. Prior to this, I have been working as a Research Engineer at Gauss Lab, Huawei. I obtained my doctoral degree in 2022 from the Department of Computer Science and Engineering at Chinese University of Hong Kong and completed my undergraduate studies in the Department of Computer Science at Northwestern Polytechnical University in 2018.
 
 ### Research Interests
-Shangqi Lu is broadly interested in designing algorithms with non-trivial theoretical guarantees and applying them to practical database systems. His focus lies in exploring topics such as database query processing, high-dimensional computational geometry, information retrieval, and machine learning. 
+I am broadly interested in designing algorithms with non-trivial theoretical guarantees and applying them to practical database systems. My focus lies in exploring topics such as database query processing, high-dimensional computational geometry, information retrieval, and machine learning. 
 
 ### Publications
 
