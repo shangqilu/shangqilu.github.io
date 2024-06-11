@@ -21,12 +21,12 @@ repository               : "shangqilu/shangqilu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "shangqilu.jpg"
   name             : "Shangqi Lu"
   pronouns         : # example: "she/her"  
   bio              : # "Research Engineer at Huawei"
   location         : "Shenzhen, China"
-  employer         : "Huawei"
+  employer         : ""
   uri              : # URL
   email            : # "none@example.org" 
 
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=JTn8w04AAAAJ"
   impactstory      : # URL
-  orcid            : # "http://orcid.org/0000-0002-7517-7252"
+  orcid            : "http://orcid.org/0000-0002-7517-7252"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
