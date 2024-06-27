@@ -14,7 +14,7 @@ redirect_from:
 
 ### General Information
 
-I will join the Hong Kong University of Science and Technology (Guangzhou) in July 2024 as an Assistant Professor in the [Thrust of Data Science and Analytics](https://dsa.hkust-gz.edu.cn/). Prior to this, I was a Research Engineer at Gauss Lab, Huawei. I obtained my doctoral degree in 2022 at the Chinese University of Hong Kong, honorably advised by Prof. Yufei Tao. Before that, I completed my undergraduate studies in Computer Science at the Northwestern Polytechnical University in 2018.
+I will join the Hong Kong University of Science and Technology (Guangzhou) in July 2024 as an Assistant Professor in the [Thrust of Data Science and Analytics](https://dsa.hkust-gz.edu.cn/). Prior to this, I was a Research Engineer at Huawei. I obtained my doctoral degree in 2022 at the Chinese University of Hong Kong, honorably advised by Prof. Yufei Tao. Before that, I completed my undergraduate studies in Computer Science at the Northwestern Polytechnical University in 2018.
 
 **Email:** shangqilu@hkust-gz.edu.cn
 
