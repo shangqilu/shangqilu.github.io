@@ -18,9 +18,7 @@ Shangqi Lu is currently an Assistant Professor of the Hong Kong University of Sc
 
 **Email:** shangqilu@hkust-gz.edu.cn
 
-**Research Interests**
-
-Designing algorithms with non-trivial theoretical guarantees and applying them to practical database systems. My focus lies in exploring topics such as database query processing, high-dimensional computational geometry, information retrieval, and machine learning.
+**Research Interests.** Designing algorithms with non-trivial theoretical guarantees and applying them to practical database systems. My focus lies in exploring topics such as database query processing, high-dimensional computational geometry, information retrieval, and machine learning.
 
 
 **I am looking for PhD students and Research Assistants.** Please send me your CV and detailed transcript if you are interested. The accepted student is expected to research on both practical and theoretical algorithms on large-scale data.
