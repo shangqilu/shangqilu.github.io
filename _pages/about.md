@@ -14,7 +14,7 @@ redirect_from:
 
 ### About Me
 
-Shangqi Lu is currently an Assistant Professor of the Hong Kong University of Science and Technology (Guangzhou) in the [Thrust of Data Science and Analytics](https://dsa.hkust-gz.edu.cn/). Prior to this, he was a Research Engineer at Huawei. He obtained his doctoral degree in 2022 at the Chinese University of Hong Kong, honorably advised by Prof. [Yufei Tao](https://www.cse.cuhk.edu.hk/~taoyf/). He obtained his bachelor's degree from the Northwestern Polytechnical University in 2018.
+Shangqi Lu is currently an Assistant Professor at the Hong Kong University of Science and Technology (Guangzhou) in the [Data Science and Analytics Thrust](https://dsa.hkust-gz.edu.cn/). Prior to this, he was a Research Engineer at Huawei. He obtained his doctoral degree in 2022 at the Chinese University of Hong Kong, honorably advised by Prof. [Yufei Tao](https://www.cse.cuhk.edu.hk/~taoyf/). He obtained his bachelor's degree from the Northwestern Polytechnical University in 2018.
 
 **Email:** shangqilu@hkust-gz.edu.cn
 
