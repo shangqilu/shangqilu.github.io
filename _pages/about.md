@@ -14,13 +14,17 @@ redirect_from:
 
 ### General Information
 
-I will join the Hong Kong University of Science and Technology (Guangzhou) in July 2024 as an Assistant Professor in the [Thrust of Data Science and Analytics](https://dsa.hkust-gz.edu.cn/). Prior to this, I was a Research Engineer at Huawei. I obtained my doctoral degree in 2022 at the Chinese University of Hong Kong, honorably advised by Prof. Yufei Tao. Before that, I completed my undergraduate studies in Computer Science at the Northwestern Polytechnical University in 2018.
+Shangqi Lu is currently an Assistant Professor of the Hong Kong University of Science and Technology (Guangzhou) in the [Thrust of Data Science and Analytics](https://dsa.hkust-gz.edu.cn/). Prior to this, he was a Research Engineer at Huawei. He obtained his doctoral degree in 2022 at the Chinese University of Hong Kong, honorably advised by Prof. Yufei Tao. Before that, he completed his undergraduate studies in Computer Science at the Northwestern Polytechnical University in 2018.
 
 **Email:** shangqilu@hkust-gz.edu.cn
 
 **Research Interests**
 
-Designing algorithms with non-trivial theoretical guarantees and applying them to practical database systems. My focus lies in exploring topics such as database query processing, high-dimensional computational geometry, information retrieval, and machine learning. 
+Designing algorithms with non-trivial theoretical guarantees and applying them to practical database systems. My focus lies in exploring topics such as database query processing, high-dimensional computational geometry, information retrieval, and machine learning.
+
+### Supervision
+
+I am looking for PhD students and Research Assistants. Interested Applicants may contact me through email (including a detailed transcript and a CV).
 
 ### Publications
 
@@ -36,10 +40,6 @@ In publications marked with `**', authors are ordered alphabetically (by last na
 - Shangqi Lu, Wim Martens, Matthias Niewerth, and Yufei Tao. **Optimal Algorithms for Multiway Search on Partial Orders. Proceedings of the 41st ACM Symposium on Principles of Database Systems (PODS), pages 175-187, 2022.
 - Shangqi Lu and Yufei Tao. **Towards Optimal Dynamic Indexes for Approximate (and Exact) Triangle Counting. Proceedings of the 24th International Conference on Database Theory (ICDT), pages 6:1-6:23, 2021.
 - Yufei Tao and **Shangqi Lu.** From Online to Non-i.i.d. Batch Learning. Proceedings of the 26th ACM International Conference On Knowledge Discovery and Data Mining (SIGKDD), pages 328-337, 2020.
-
-### Supervision
-
-I believe in supervising a very small number of PhD students simultaneously. Currently, there is a PhD opening for Spring 2025. Applications for the Fall 2025 intake are also open. Applicants may contact me through email (including a detailed transcript and a CV) and submit their application via the HKUST Online Application System.
 
 ### Awards
 
