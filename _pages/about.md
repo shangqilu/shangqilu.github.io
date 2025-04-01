@@ -27,7 +27,7 @@ Shangqi Lu is currently an Assistant Professor at the Hong Kong University of Sc
 
 In publications marked with `**', authors are ordered alphabetically (by last name), as is a convention of theory papers. In the other publications, authors are ordered by contribution.
 
-- **Shangqi Lu**, Ru Wang, and Yufei Tao. Interactive Graph Search Made Simple. To appear in the Proceedings of ACM Conference on Management of Data (SIGMOD), 2025.
+- **Shangqi Lu**, Ru Wang, and Yufei Tao. Interactive Graph Search Made Simple. To appear in the Proceedings of ACM Conference on Management of Data (SIGMOD), 2025. [pdf](http://shangqilu.github.io/files/mypapers/sigmod25.pdf)
 - Ru Wang, **Shangqi Lu**, and Yufei Tao. An Index for Set Intersection with Post-Filtering. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024. [pdf](http://shangqilu.github.io/files/mypapers/tkde24.pdf)
 - Shangqi Lu, Wim Martens, Matthias Niewerth, and Yufei Tao. **Partial Order Multiway Search. ACM Transactions on Database Systems (TODS), 48(4): 10:1-10:31, 2023. (Special issue of PODS'22, ACM SIGMOD Research Highlight Award 2023). [pdf](http://shangqilu.github.io/files/mypapers/tods23.pdf)
 - Shangqi Lu and Yufei Tao. **Indexing for Keyword Search with Structured Constraints. Proceedings of the 42nd ACM Symposium on Principles of Database Systems (PODS), pages 263-275, 2023. [pdf](http://shangqilu.github.io/files/mypapers/pods23-kwgeo.pdf)
