@@ -25,7 +25,7 @@ Shangqi Lu is currently an Assistant Professor at the Hong Kong University of Sc
 
 ### Publications
 
-In publications marked with `**', authors are ordered alphabetically (by last name), as is a convention of theory papers. In the other publications, authors are ordered by contribution.
+In publications marked with `**', authors are ordered alphabetically, as is a convention of theory papers.
 
 - Shangqi Lu and Yufei Tao. **Proximity Graphs for Similarity Search: Fast Construction, Lower Bounds, and Euclidean Separation. To appear in the Proceedings of ACM Symposium on Principles of Database Systems (PODS), 2026.
 - **Shangqi Lu**, Ru Wang, and Yufei Tao. Interactive Graph Search Made Simple. Proceedings of ACM Conference on Management of Data (SIGMOD), 2025. [pdf](http://shangqilu.github.io/files/mypapers/sigmod25.pdf)
