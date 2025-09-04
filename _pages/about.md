@@ -48,7 +48,8 @@ In publications marked with `**', authors are ordered alphabetically, as is a co
 
 ### Teaching
 
-- Instructor: UFUG2602 Data Structure and Algorithm Design, Spring 2024-25
+- Instructor: DSAA2043 Design and Analysis of Algorithms, Fall 2025-2026
+- Instructor: UFUG2602 Data Structure and Algorithm Design, Spring 2024-2025
 - Teaching Assistant: CSCI5010 Practical Computational Geometry Algorithms, Spring 2021
 - Teaching Assistant: CMSC5724 Data Mining and Knowledge Discovery, Fall 2018, Fall 2019, Fall 2020
 - Teaching Assistant: CSCI2100 Data Structures, Fall 2018, Fall 2020
@@ -57,4 +58,13 @@ In publications marked with `**', authors are ordered alphabetically, as is a co
 ### Services
 
 - ACM TODS Reviewers Board Member
-- ICDE 2026 PC member
+- ICDE 2026 PC Member
+
+### Supervision
+
+| -------- | ------- |
+| Hongyi Duan    | PhD since 2025 Fall    |
+| Hongru Chu    | PhD since 2025 Fall    |
+| Kaijie Zhang| PhD since 2025 Fall    |
+| Binhong Li    | PhD since 2025 Spring    |
+
