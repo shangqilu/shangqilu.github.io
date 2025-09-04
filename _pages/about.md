@@ -55,16 +55,17 @@ In publications marked with `**', authors are ordered alphabetically, as is a co
 - Teaching Assistant: CSCI2100 Data Structures, Fall 2018, Fall 2020
 - Teaching Assistant: CSCI3160: Design and Analysis of Algorithms, Fall 2019
 
+### Supervision
+
+- Hongyi Duan (PhD since 2025 Fall)
+- Hongru Chu (PhD since 2025 Fall)
+- Kaijie Zhang (PhD since 2025 Fall)
+- Binhong Li (PhD since 2025 Spring)
+
 ### Services
 
 - ACM TODS Reviewers Board Member
 - ICDE 2026 PC Member
 
-### Supervision
 
-| -------- | ------- |
-| Hongyi Duan    | PhD since 2025 Fall    |
-| Hongru Chu    | PhD since 2025 Fall    |
-| Kaijie Zhang| PhD since 2025 Fall    |
-| Binhong Li    | PhD since 2025 Spring    |
 
