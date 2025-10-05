@@ -29,7 +29,10 @@ In publications marked with `**', authors are ordered alphabetically, as is a co
 
 - Binhong Li, Xiao Yan, and **Shangqi Lu**<sup>#</sup>. Fast-Convergent Proximity Graphs for Approximate Nearest Neighbor Search. To appear in the Proceedings of ACM Conference on Management of Data (SIGMOD), 2026.
 
-- Shangqi Lu and Yufei Tao. **Proximity Graphs for Similarity Search: Fast Construction, Lower Bounds, and Euclidean Separation. To appear in the Proceedings of ACM Conference on Management of Data (PODS), 2026. [arxiv](https://arxiv.org/abs/2509.07732)
+- Shangqi Lu and Yufei Tao. **[Proximity Graphs for Similarity Search: Fast Construction, Lower Bounds, and Euclidean Separation.](https://arxiv.org/abs/2509.07732) To appear in the Proceedings of ACM Conference on Management of Data (PODS), 2026.
+
+- Han Linghu, Qianhao Cong, Yuming Huang, **Shangqi Lu**, Liang Feng, and Jing Tang. LLM-Powered Interactive Graph Search: A Scalable and Practical Approach. To appear in the Proceedings of ACM Conference on Management of Data (SIGMOD), 2026.
+
 - **Shangqi Lu**, Ru Wang, and Yufei Tao. [Interactive Graph Search Made Simple.](http://shangqilu.github.io/files/mypapers/sigmod25.pdf) Proceedings of ACM Conference on Management of Data (SIGMOD), 2025.
 - Ru Wang, **Shangqi Lu**, and Yufei Tao. [An Index for Set Intersection with Post-Filtering.](http://shangqilu.github.io/files/mypapers/tkde24.pdf) IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024.
 - Shangqi Lu, Wim Martens, Matthias Niewerth, and Yufei Tao. **[Partial Order Multiway Search.](http://shangqilu.github.io/files/mypapers/tods23.pdf) ACM Transactions on Database Systems (TODS), 48(4): 10:1-10:31, 2023. (Special issue of PODS'22). 
