@@ -27,7 +27,7 @@ Shangqi Lu is currently an Assistant Professor at the Hong Kong University of Sc
 
 In publications marked with `**', authors are ordered alphabetically, as is a convention of theory papers. "#" indicates the corresponding author.
 
-- Binhong Li, Xiao Yan, and **Shangqi Lu**<sup>#</sup>. Fast-Convergent Proximity Graphs for Approximate Nearest Neighbor Search. To appear in the Proceedings of ACM Conference on Management of Data (SIGMOD), 2026.
+- Binhong Li, Xiao Yan, and **Shangqi Lu**<sup>#</sup>. [Fast-Convergent Proximity Graphs for Approximate Nearest Neighbor Search.](https://arxiv.org/abs/2510.05975) To appear in the Proceedings of ACM Conference on Management of Data (SIGMOD), 2026.
 
 - Shangqi Lu and Yufei Tao. **[Proximity Graphs for Similarity Search: Fast Construction, Lower Bounds, and Euclidean Separation.](https://arxiv.org/abs/2509.07732) To appear in the Proceedings of ACM Conference on Management of Data (PODS), 2026.
 
