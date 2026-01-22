@@ -18,7 +18,7 @@ Shangqi Lu is currently an Assistant Professor at the Hong Kong University of Sc
 
 **Email:** shangqilu@hkust-gz.edu.cn
 
-**Research Interests.** Designing algorithms with non-trivial theoretical guarantees and applying them to practical database systems. My focus lies in exploring topics such as database query processing, high-dimensional computational geometry, information retrieval, and machine learning.
+**Research Interests.** Designing algorithms with non-trivial theoretical guarantees and applying them to practical database systems. My focus lies in exploring topics such as database query processing and vector databases.
 
 
 **I am looking for PhD students and Research Assistants.** Please send me your CV and detailed transcript if you are interested. The accepted student is expected to research on both practical and theoretical algorithms on large-scale data.
@@ -27,9 +27,9 @@ Shangqi Lu is currently an Assistant Professor at the Hong Kong University of Sc
 
 In publications marked with `**', authors are ordered alphabetically, as is a convention of theory papers. "#" indicates the corresponding author.
 
-- Binhong Li, Xiao Yan, and **Shangqi Lu**<sup>#</sup>. [Fast-Convergent Proximity Graphs for Approximate Nearest Neighbor Search.](https://arxiv.org/abs/2510.05975) To appear in the Proceedings of ACM Conference on Management of Data (SIGMOD), 2026.
+- Binhong Li, Xiao Yan, and **Shangqi Lu**<sup>#</sup>. [Fast-Convergent Proximity Graphs for Approximate Nearest Neighbor Search.](http://shangqilu.github.io/files/mypapers/sigmod26.pdf) To appear in the Proceedings of ACM Conference on Management of Data (SIGMOD), 2026.
 
-- Shangqi Lu and Yufei Tao. **[Proximity Graphs for Similarity Search: Fast Construction, Lower Bounds, and Euclidean Separation.](https://arxiv.org/abs/2509.07732) To appear in the Proceedings of ACM Conference on Management of Data (PODS), 2026.
+- Shangqi Lu and Yufei Tao. **[Proximity Graphs for Similarity Search: Fast Construction, Lower Bounds, and Euclidean Separation.](http://shangqilu.github.io/files/mypapers/pods26.pdf) To appear in the Proceedings of ACM Conference on Management of Data (PODS), 2026.
 
 - Han Linghu, Qianhao Cong, Yuming Huang, **Shangqi Lu**, Liang Feng, and Jing Tang. LLM-Powered Interactive Graph Search: A Scalable and Practical Approach. To appear in the Proceedings of ACM Conference on Management of Data (SIGMOD), 2026.
 
@@ -53,6 +53,8 @@ In publications marked with `**', authors are ordered alphabetically, as is a co
 
 ### Teaching
 
+- DSAA3041 Advanced Algorithms, 2026 Spring
+- DSAA3071 Theories in Computing, 2026 Spring
 - DSAA2043 Design and Analysis of Algorithms, 2025 Fall
 - UFUG2602 Data Structure and Algorithm Design, 2025 Spring
 
@@ -66,7 +68,9 @@ In publications marked with `**', authors are ordered alphabetically, as is a co
 ### Services
 
 - ACM TODS Reviewers Board Member
-- ICDE 2026 PC Member
+- PC Member of ICDE 2026
+- PC Member of SIGMOD 2027
+
 
 
 
