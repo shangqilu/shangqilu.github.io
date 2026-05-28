@@ -27,7 +27,7 @@ Shangqi Lu is currently an Assistant Professor at the Hong Kong University of Sc
 
 In publications marked with `**', authors are ordered alphabetically, as is a convention of theory papers. "#" indicates the corresponding author.
 
-- Junhao Gan, **Shangqi Lu**<sup>#</sup>, Kaijie Zhang, and Zhuo Zhang. Independent 2D Orthogonal Range Sampling with Linear Space. To appear in International Conference on Database Theory (ICDT), 2027.
+- Junhao Gan, **Shangqi Lu**<sup>#</sup>, Kaijie Zhang, and Zhuo Zhang. **Independent 2D Orthogonal Range Sampling with Linear Space. To appear in International Conference on Database Theory (ICDT), 2027.
 
 - Binhong Li, Xiao Yan, and **Shangqi Lu**<sup>#</sup>. [Fast-Convergent Proximity Graphs for Approximate Nearest Neighbor Search.](http://shangqilu.github.io/files/mypapers/sigmod26.pdf) Proceedings of ACM Conference on Management of Data (SIGMOD), 2026.
 
