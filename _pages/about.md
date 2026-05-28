@@ -29,11 +29,11 @@ In publications marked with `**', authors are ordered alphabetically, as is a co
 
 - Junhao Gan, **Shangqi Lu**<sup>#</sup>, Kaijie Zhang, and Zhuo Zhang. Independent 2D Orthogonal Range Sampling with Linear Space. To appear in International Conference on Database Theory (ICDT), 2027.
 
-- Binhong Li, Xiao Yan, and **Shangqi Lu**<sup>#</sup>. [Fast-Convergent Proximity Graphs for Approximate Nearest Neighbor Search.](http://shangqilu.github.io/files/mypapers/sigmod26.pdf) To appear in the Proceedings of ACM Conference on Management of Data (SIGMOD), 2026.
+- Binhong Li, Xiao Yan, and **Shangqi Lu**<sup>#</sup>. [Fast-Convergent Proximity Graphs for Approximate Nearest Neighbor Search.](http://shangqilu.github.io/files/mypapers/sigmod26.pdf) Proceedings of ACM Conference on Management of Data (SIGMOD), 2026.
 
-- Shangqi Lu and Yufei Tao. **[Proximity Graphs for Similarity Search: Fast Construction, Lower Bounds, and Euclidean Separation.](http://shangqilu.github.io/files/mypapers/pods26.pdf) To appear in the Proceedings of ACM Conference on Management of Data (PODS), 2026.
+- Shangqi Lu and Yufei Tao. **[Proximity Graphs for Similarity Search: Fast Construction, Lower Bounds, and Euclidean Separation.](http://shangqilu.github.io/files/mypapers/pods26.pdf) Proceedings of ACM Conference on Management of Data (PODS), 2026.
 
-- Han Linghu, Qianhao Cong, Yuming Huang, **Shangqi Lu**, Liang Feng, and Jing Tang. LLM-Powered Interactive Graph Search: A Scalable and Practical Approach. To appear in the Proceedings of ACM Conference on Management of Data (SIGMOD), 2026.
+- Han Linghu, Qianhao Cong, Yuming Huang, **Shangqi Lu**, Liang Feng, and Jing Tang. LLM-Powered Interactive Graph Search: A Scalable and Practical Approach. Proceedings of ACM Conference on Management of Data (SIGMOD), 2026.
 
 - **Shangqi Lu**, Ru Wang, and Yufei Tao. [Interactive Graph Search Made Simple.](http://shangqilu.github.io/files/mypapers/sigmod25.pdf) Proceedings of ACM Conference on Management of Data (SIGMOD), 2025.
 - Ru Wang, **Shangqi Lu**, and Yufei Tao. [An Index for Set Intersection with Post-Filtering.](http://shangqilu.github.io/files/mypapers/tkde24.pdf) IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024.
