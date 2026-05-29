@@ -107,6 +107,48 @@
   }
 }
 
+.home-content {
+  font-size: 0.9rem;
+  line-height: 1.55;
+
+  h3 {
+    margin-top: 1.35em;
+    margin-bottom: 0.65em;
+    font-size: 1.25em;
+  }
+
+  p {
+    margin-bottom: 0.85em;
+  }
+
+  ul {
+    margin-top: 0.35em;
+  }
+}
+
+.pub-item {
+  margin: 0 0 1.05em;
+}
+
+.pub-authors,
+.pub-title,
+.pub-venue {
+  margin: 0.1em 0;
+}
+
+.pub-title {
+  font-weight: 600;
+}
+
+.pub-venue {
+  color: mix(#fff, $text-color, 15%);
+  font-size: 0.96em;
+}
+
+.pub-marker {
+  font-weight: 700;
+}
+
 .page__hero {
   position: relative;
   margin-bottom: 2em;
