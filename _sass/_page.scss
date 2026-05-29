@@ -130,6 +130,17 @@
   margin: 0 0 1.05em;
 }
 
+.pub-authors {
+  position: relative;
+  padding-left: 1em;
+}
+
+.pub-authors::before {
+  content: "\2022";
+  position: absolute;
+  left: 0;
+}
+
 .pub-authors,
 .pub-title,
 .pub-venue {
