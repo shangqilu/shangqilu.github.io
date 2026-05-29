@@ -136,9 +136,11 @@
 }
 
 .pub-authors::before {
-  content: "\2022";
+  content: "\25AA";
   position: absolute;
   left: 0;
+  top: 0.05em;
+  font-size: 1.1em;
 }
 
 .pub-authors,
