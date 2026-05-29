@@ -136,11 +136,14 @@
 }
 
 .pub-authors::before {
-  content: "\25AA";
+  content: "";
   position: absolute;
-  left: 0;
-  top: 0.05em;
-  font-size: 1.1em;
+  left: 0.1em;
+  top: 0.78em;
+  width: 0.38em;
+  height: 0.38em;
+  background-color: currentColor;
+  transform: translateY(-50%);
 }
 
 .pub-authors,
