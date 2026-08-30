@@ -49,7 +49,7 @@ In publications marked with `**`, authors are ordered alphabetically, as is a co
 
 <div class="pub-item">
   <div class="pub-authors">Han Linghu, Qianhao Cong, Yuming Huang, <strong>Shangqi Lu</strong>, Liang Feng, and Jing Tang.</div>
-  <div class="pub-title">LLM-Powered Interactive Graph Search: A Scalable and Practical Approach.</div>
+  <div class="pub-title"><a href="https://dl.acm.org/doi/10.1145/3769804">LLM-Powered Interactive Graph Search: A Scalable and Practical Approach.</a></div>
   <div class="pub-venue">Proceedings of ACM Conference on Management of Data (SIGMOD), 2026.</div>
 </div>
 
