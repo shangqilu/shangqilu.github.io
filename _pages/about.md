@@ -127,13 +127,14 @@ In publications marked with `**`, authors are ordered alphabetically, as is a co
 
 ### Teaching
 
+- DSAA2043 Design and Analysis of Algorithms, 2026 Fall, 2025 Fall
 - DSAA3041 Advanced Algorithms, 2026 Spring
 - DSAA3071 Theories in Computing, 2026 Spring
-- DSAA2043 Design and Analysis of Algorithms, 2025 Fall
 - UFUG2602 Data Structure and Algorithm Design, 2025 Spring
 
 ### Supervision
 
+- Yinyu Liu (PhD since 2026 Fall)
 - Hongyi Duan (PhD since 2025 Fall)
 - Hongru Chu (PhD since 2025 Fall)
 - Kaijie Zhang (PhD since 2025 Fall)
