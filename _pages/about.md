@@ -127,7 +127,7 @@ In publications marked with `**`, authors are ordered alphabetically, as is a co
 
 ### Teaching
 
-- DSAA2043 Design and Analysis of Algorithms, 2026 Fall, 2025 Fall
+- [DSAA2043 Design and Analysis of Algorithms](https://shangqilu.github.io/dsaa2043/), 2026 Fall, 2025 Fall
 - DSAA3041 Advanced Algorithms, 2026 Spring
 - DSAA3071 Theories in Computing, 2026 Spring
 - UFUG2602 Data Structure and Algorithm Design, 2025 Spring
