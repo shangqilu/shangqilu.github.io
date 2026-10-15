@@ -145,5 +145,6 @@ In publications marked with `**`, authors are ordered alphabetically, as is a co
 - ACM TODS Reviewers Board Member
 - PC Member of ICDE 2026
 - PC Member of SIGMOD 2027
+- PC Member of PODS 2028
 
 </div>
