@@ -96,7 +96,7 @@ In publications marked with `**`, authors are ordered alphabetically, as is a co
 </div>
 
 <div class="pub-item">
-  <div class="pub-authors">Abolfazl Asudeh, Das Gautam, HV Jagadish, Shangqi Lu, Azade Nazi, and Yufei Tao, et al.</div>
+  <div class="pub-authors">Abolfazl Asudeh, Gautam Das, H. V. Jagadish, Shangqi Lu, Azade Nazi, Yufei Tao, Nan Zhang, and Jianwen Zhao.</div>
   <div class="pub-title"><span class="pub-marker">**</span> <a href="http://shangqilu.github.io/files/mypapers/tods22.pdf">On Finding Rank Regret Representatives.</a></div>
   <div class="pub-venue">ACM Transactions on Database Systems (TODS), 47(3): 10:1-10:37, 2022.</div>
 </div>
