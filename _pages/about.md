@@ -30,6 +30,12 @@ Shangqi Lu is currently an Assistant Professor at the Hong Kong University of Sc
 In publications marked with `**`, authors are ordered alphabetically, as is a convention of theory papers. "#" indicates the corresponding author.
 
 <div class="pub-item">
+  <div class="pub-authors">Hui Li, Shiyuan Deng, Xiao Yan, <strong>Shangqi Lu</strong>, and James Cheng.</div>
+  <div class="pub-title">DRIP: Cracking the Proximity Graph Index for Vector Similarity Search.</div>
+  <div class="pub-venue">To appear in International Conference on Very Large Data Bases (VLDB), 2027.</div>
+</div>
+
+<div class="pub-item">
   <div class="pub-authors">Junhao Gan, <strong>Shangqi Lu</strong><sup>#</sup>, Kaijie Zhang, and Zhuo Zhang.</div>
   <div class="pub-title"><span class="pub-marker">**</span> Independent 2D Orthogonal Range Sampling with Linear Space.</div>
   <div class="pub-venue">To appear in International Conference on Database Theory (ICDT), 2027.</div>
