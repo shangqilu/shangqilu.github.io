@@ -16,14 +16,32 @@ redirect_from:
 
 ### About Me
 
-Shangqi Lu is currently an Assistant Professor at the Hong Kong University of Science and Technology (Guangzhou) in the [Data Science and Analytics Thrust](https://dsa.hkust-gz.edu.cn/). Prior to this, he was a Research Engineer at Huawei. He obtained his doctoral degree in 2022 at the Chinese University of Hong Kong, honorably advised by Prof. [Yufei Tao](https://www.cse.cuhk.edu.hk/~taoyf/). He obtained his bachelor's degree from the Northwestern Polytechnical University in 2018.
+I am an Assistant Professor in the [Data Science and Analytics Thrust](https://dsa.hkust-gz.edu.cn/) at The Hong Kong University of Science and Technology (Guangzhou). Before joining HKUST(GZ), I was a Research Engineer at Huawei. I received my PhD from The Chinese University of Hong Kong in 2022, under the supervision of Prof. [Yufei Tao](https://www.cse.cuhk.edu.hk/~taoyf/), and my bachelor's degree from Northwestern Polytechnical University in 2018.
 
 **Email:** shangqilu@hkust-gz.edu.cn
 
-**Research Interests.** Designing algorithms with non-trivial theoretical guarantees and applying them to practical database systems. My focus lies in exploring topics such as database query processing and vector databases.
+### Research Interests
 
+My research lies at the intersection of data management, algorithms, and AI systems. I am interested in developing efficient algorithms, data structures, and scalable systems for large-scale data processing and AI applications.
 
-**I am looking for PhD students and Research Assistants.** Please send me your CV and detailed transcript if you are interested. The accepted student is expected to research on both practical and theoretical algorithms on large-scale data.
+My current research interests include:
+
+- **Vector Search and Retrieval Systems:** Vector databases, approximate nearest neighbor search, proximity graphs, and hybrid search.
+- **Agentic Search and Memory:** Agentic information retrieval, retrieval-augmented generation (RAG), long-term agent memory, and context management.
+- **Efficient LLM Inference:** KV cache optimization, long-context inference, and memory-efficient LLM systems.
+- **Database Algorithms and Query Processing:** Indexing, efficient query processing, data sampling, and semantic query processing.
+
+I am interested in both fundamental algorithmic problems and practical systems research.
+
+### Prospective Students
+
+**I am actively recruiting PhD students for Fall 2027, as well as Research Assistants.**
+
+I welcome motivated students interested in data management, algorithms, and AI systems, particularly vector search, agentic search, agent memory, and efficient LLM inference.
+
+Students with backgrounds in algorithms, computer systems, databases, or machine learning are all welcome. Both theoretical and systems-oriented research opportunities are available in my group.
+
+If you are interested in joining my group, please [email me](mailto:shangqilu@hkust-gz.edu.cn) your CV, academic transcripts, and a brief description of your research interests.
 
 ### Publications
 
