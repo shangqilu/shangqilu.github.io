@@ -22,24 +22,20 @@ I am an Assistant Professor in the [Data Science and Analytics Thrust](https://d
 
 ### Research Interests
 
-My research lies at the intersection of data management, algorithms, and AI systems. I am interested in developing efficient algorithms, data structures, and scalable systems for large-scale data processing and AI applications.
+My research focuses on algorithms and data systems for efficient search, large-scale data processing, and AI applications. I am interested in both foundational algorithmic problems and practical systems research.
 
 My current research interests include:
 
-- **Vector Search and Retrieval Systems:** Vector databases, approximate nearest neighbor search, proximity graphs, and hybrid search.
-- **Agentic Search and Memory:** Agentic information retrieval, retrieval-augmented generation (RAG), long-term agent memory, and context management.
-- **Efficient LLM Inference:** KV cache optimization, long-context inference, and memory-efficient LLM systems.
-- **Database Algorithms and Query Processing:** Indexing, efficient query processing, data sampling, and semantic query processing.
-
-I am interested in both fundamental algorithmic problems and practical systems research.
+- **Vector Search and Retrieval Systems:** Vector databases, approximate nearest neighbor search (ANN), proximity graphs, and hybrid search.
+- **Agentic Search and Memory:** Agentic information retrieval, retrieval-augmented generation (RAG), long-term memory for AI agents, and context management.
+- **Efficient LLM Inference:** KV cache optimization and long-context inference.
+- **Database Algorithms and Query Processing:** Data structures and indexing, query optimization, data sampling, and semantic query processing.
 
 ### Prospective Students
 
-**I am actively recruiting PhD students for Fall 2027, as well as Research Assistants.**
+**I am actively recruiting PhD students for Fall 2027, as well as research assistants.**
 
-I welcome motivated students interested in data management, algorithms, and AI systems, particularly vector search, agentic search, agent memory, and efficient LLM inference.
-
-Students with backgrounds in algorithms, computer systems, databases, or machine learning are all welcome. Both theoretical and systems-oriented research opportunities are available in my group.
+I welcome motivated students with backgrounds in algorithms, databases, computer systems, or machine learning. My group offers opportunities in theoretical and systems-oriented research across these areas.
 
 If you are interested in joining my group, please [email me](mailto:shangqilu@hkust-gz.edu.cn) your CV, academic transcripts, and a brief description of your research interests.
 
@@ -168,7 +164,7 @@ In publications marked with `**`, authors are ordered alphabetically, as is a co
 
 - ACM TODS Reviewers Board Member
 - PC Member of ICDE 2026
-- PC Member of SIGMOD 2027
+- PC Member of SIGMOD 2027, 2028
 - PC Member of PODS 2028
 
 </div>
